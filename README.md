@@ -14,7 +14,7 @@ This project focuses on Neural Style Transfer using the VGG19 model. The goal is
 
 ### Dataset
 For traning download Dataset from given kaggle link. And update link of the dataset in the jupyter notebook in the 'Hyper Parameters' section.  
-- **Content Dataset:** [COCO 2017](/kaggle/input/coco-2017-dataset/coco2017/train2017)
+- **Content Dataset:** [COCO 2017](https://www.kaggle.com/datasets/awsaf49/coco-2017-dataset/)
 - **Style Dataset:** [Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time/)
 
 ### Pretrained Weights
