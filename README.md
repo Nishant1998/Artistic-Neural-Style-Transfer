@@ -19,8 +19,8 @@ For traning download Dataset from given kaggle link. And update link of the data
 
 ### Pretrained Weights
 Download the weights and update the link in the jupyter notebook in the "Hyper Parameters" section.  
-- **VGG19 Encoder:** [Encoder](insert_link_here)
-- **VGG19 Decoder:** [Decoder](insert_link_here)
+- **VGG19 Encoder:** [Encoder](https://drive.google.com/file/d/1JQ1wSsi4QT0O8yGgkoAJS4F0Eb9NCOaU/view?usp=sharing)
+- **VGG19 Decoder:** [Decoder](https://drive.google.com/file/d/1lGqgE5CNy4sFJbb-LHAUhofEQ5F0igq7/view?usp=sharing)
 
 ### Trained Weights
 Download the weights and update the link in the jupyter notebook in the "Hyper Parameters" section.  
@@ -30,6 +30,7 @@ Download the weights and update the link in the jupyter notebook in the "Hyper P
 
 Execute the code cells in the provided Jupyter Notebook. Ensure that the required datasets and weights are available. Adjust hyperparameters as needed.
 You can customize hyperparameters in the notebook. Change them at the top of the notebook under the "Hyper Parameters" section.
+Or you can run code on [Kaggle Notebook](https://www.kaggle.com/code/nishantvalvi1504/artistic-neural-style-transfer) 
 ## References
 
 - [Learning Linear Transformations for Fast Arbitrary Style Transfer](https://arxiv.org/abs/1808.04537) by [Li, Xueting and Liu, Sifei and Kautz, Jan and Yang, Ming-Hsuan]
