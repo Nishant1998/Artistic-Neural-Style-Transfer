@@ -24,7 +24,7 @@ Download the weights and update the link in the jupyter notebook in the "Hyper P
 
 ### Trained Weights
 Download the weights and update the link in the jupyter notebook in the "Hyper Parameters" section.  
-- **Trained Model Weights:** [model11](insert_link_here) (Content Loss Weight: 1.0, Style Loss Weight: 1.0)
+- **Trained Model Weights:** [model](https://drive.google.com/file/d/15NBz9kjo7XgC8I5jHktBF8-rCNXkSb5o/view?usp=sharing) 
 
 ## How to Run
 
